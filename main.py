@@ -1,14 +1,8 @@
-# task 1
-'123'
-x=int('123')
-print('x=', type(x))
+a = 1
+j = 0
+while a < 100:
+    a = a+1
+if a%7==0:
+    print(a)
 
-#task 2
-a=float(x)
-print('a=', type(a))
-
-#task 3
-'12.345'
-b=int(12.345)
-print('b=', type(b))
 
